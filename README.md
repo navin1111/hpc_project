@@ -4,7 +4,7 @@ This repository contains C++ code for matrix multiplication using OpenMP and Pyt
 
 ## Matrix Multiplication Code (matrix_multiplication.cpp)
 
-The `matrix_multiplication.cpp` file contains the C++ code for matrix multiplication using OpenMP. It performs matrix multiplication on square matrices of dimensions ranging from 100x100 to 1000x1000.
+The `multiplication.cpp` file contains the C++ code for matrix multiplication using OpenMP. It performs matrix multiplication on square matrices of dimensions ranging from 100x100 to 1000x1000.
 
 ## Python Code for Generating Graphs (generate_graphs.py)
 
@@ -14,7 +14,7 @@ The `plotting.ipynb` file contains Python code to calculate and generate two typ
 
 ## Usage
 
-1. Compile and run the C++ code `matrix_multiplication.cpp`.
+1. Compile and run the C++ code `multiplication.cpp`.
 2. Execute the Python script `plotting.ipynb` to generate performance analysis graphs.
 
 Ensure you have the necessary dependencies installed to run both C++ and Python code.
